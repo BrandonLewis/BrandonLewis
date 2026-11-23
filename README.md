@@ -17,4 +17,10 @@ spreadsheets and proprietary formats.
 | [django-mcp-oauth](https://github.com/BrandonLewis/django-mcp-oauth) | OAuth 2.1 authorization server for MCP resource servers, as a Django app. Built on Authlib. |
 | [judgeswap](https://github.com/BrandonLewis/judgeswap) | Position-swapped LLM-as-judge, regression floors and an embedding A/B scorer, with the negative results written up. |
 
+## Earlier open-source work
+
+From 2010 to 2012 I worked on the Arizona and Idaho legislature scrapers for the Sunlight
+Foundation's Fifty State Project, now [Open States](https://github.com/openstates/openstates-scrapers):
+bills, votes, committees, legislators and committee agendas (89 commits).
+
 Built with agents, behind tests and evaluation harnesses. Based in Northern California.
