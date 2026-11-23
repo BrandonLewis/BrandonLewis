@@ -19,8 +19,8 @@ spreadsheets and proprietary formats.
 
 ## Earlier open-source work
 
-From 2010 to 2012 I worked on the Arizona and Idaho legislature scrapers for the Sunlight
-Foundation's Fifty State Project, now [Open States](https://github.com/openstates/openstates-scrapers):
+My first GitHub contributions, from 2010 to 2012, were to the Arizona and Idaho legislature
+scrapers for the Sunlight Foundation's Fifty State Project, now [Open States](https://github.com/openstates/openstates-scrapers):
 bills, votes, committees, legislators and committee agendas (89 commits).
 
 Built with agents, behind tests and evaluation harnesses. Based in Northern California.
